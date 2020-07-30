@@ -10,4 +10,4 @@ Refer below for screenshots.
 ![Chat List](/images/Chats_Page.png)
 ![Message Notification](/images/New_Message_Notification.png)
 ![Chatting Page User 1](/images/Message_Page.png)
-![Chatting Page User 2](/images/Message_Page_Second_User.png)
+![Chatting Page User 2](/images/Message_Page_Second_User.jpg)
